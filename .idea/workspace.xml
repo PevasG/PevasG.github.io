@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="84" column="63" lean-forward="false" selection-start-line="84" selection-start-column="63" selection-end-line="84" selection-end-column="63" />
+            <state relative-caret-position="501">
+              <caret line="101" column="79" lean-forward="false" selection-start-line="101" selection-start-column="79" selection-end-line="101" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -81,6 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,8 +94,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +135,8 @@
       <workItem from="1513801737549" duration="50000" />
       <workItem from="1513801808102" duration="111000" />
       <workItem from="1513802370862" duration="424000" />
-      <workItem from="1513895793353" duration="25000" />
+      <workItem from="1513895793353" duration="58000" />
+      <workItem from="1514115414430" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="Переформатування списків">
       <created>1513633902025</created>
@@ -151,11 +152,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513635559756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+ссилка (про css)">
+      <created>1513895838756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513895838756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8280000" />
+    <option name="totallyTimeSpent" value="8872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
@@ -189,13 +197,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Переформатування списків" />
     <MESSAGE value="ссилкі на ресурси, які треба дооформити" />
-    <option name="LAST_COMMIT_MESSAGE" value="ссилкі на ресурси, які треба дооформити" />
+    <MESSAGE value="+ссилка (про css)" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ссилка (про css)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -304,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="84" column="63" lean-forward="false" selection-start-line="84" selection-start-column="63" selection-end-line="84" selection-end-column="63" />
+        <state relative-caret-position="501">
+          <caret line="101" column="79" lean-forward="false" selection-start-line="101" selection-start-column="79" selection-end-line="101" selection-end-column="79" />
           <folding />
         </state>
       </provider>
