@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'MuseoSansCyrl-500';
+    src: url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot');
+    src: url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.woff2') format('woff2'),
+    url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.woff') format('woff'),
+    url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.ttf') format('truetype'),
+    url('../fonts/MuseoSansCyrl-500/MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    src: url('../fonts/ProximaNova-Bold/ProximaNova-Bold.eot');
+    src: url('../fonts/ProximaNova-Bold/ProximaNova-Bold.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Bold/ProximaNova-Bold.woff') format('woff'),
+    url('../fonts/ProximaNova-Bold/ProximaNova-Bold.ttf') format('truetype'),
+    url('../fonts/ProximaNova-Bold/ProximaNova-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNova-Semibold';
+    src: url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.eot');
+    src: url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.woff') format('woff'),
+    url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.ttf') format('truetype'),
+    url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MuseoSansCyrl-900';
+    src: url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.eot');
+    src: url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.woff2') format('woff2'),
+    url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.woff') format('woff'),
+    url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.ttf') format('truetype'),
+    url('../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MuseoSansCyrl 700';
+    src: url('../fonts/MuseoSansCyrl 700/MuseoSansCyrl 700.eot');
+    src: url('../fonts/MuseoSansCyrl 700/MuseoSansCyrl 700.woff2') format('woff2'),
+    url('../fonts/MuseoSansCyrl 700/MuseoSansCyrl 700.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MuseoSansCyrl-700';
+    src: url('../fonts/MuseoSansCyrl 700/MuseoSansCyrl-700.woff') format('woff'),
+    url('../fonts/MuseoSansCyrl 700/MuseoSansCyrl-700.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avenir-Oblique';
+    src: url('../fonts/Avenir-Oblique/Avenir-Oblique.eot');
+    src: url('../fonts/Avenir-Oblique/Avenir-Oblique.woff2') format('woff2'),
+    url('../fonts/Avenir-Oblique/Avenir-Oblique.woff') format('woff'),
+    url('../fonts/Avenir-Oblique/Avenir-Oblique.ttf') format('truetype'),
+    url('../fonts/Avenir-Oblique/Avenir-Oblique.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avenir-Medium';
+    src: url('../fonts/Avenir-Medium/Avenir-Medium.eot');
+    src: url('../fonts/Avenir-Medium/Avenir-Medium.woff2') format('woff2'),
+    url('../fonts/Avenir-Medium/Avenir-Medium.woff') format('woff'),
+    url('../fonts/Avenir-Medium/Avenir-Medium.ttf') format('truetype'),
+    url('../fonts/Avenir-Medium/Avenir-Medium.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Avenir-Heavy';
+    src: url('../fonts/Avenir-Heavy/Avenir-Heavy.eot');
+    src: url('../fonts/Avenir-Heavy/Avenir-Heavy.woff2') format('woff2'),
+    url('../fonts/Avenir-Heavy/Avenir-Heavy.woff') format('woff'),
+    url('../fonts/Avenir-Heavy/Avenir-Heavy.ttf') format('truetype'),
+    url('../fonts/Avenir-Heavy/Avenir-Heavy.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
